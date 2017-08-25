@@ -1,10 +1,4 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using CodeExamples;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace CodeExamples.Tests
 {
@@ -12,9 +6,9 @@ namespace CodeExamples.Tests
     public class TuplesTests
     {
         [TestMethod()]
-        public void FactoryExampleTest()
+        public void TuplesExampleTest()
         {
-            Assert.IsTrue(CodeExamples.Tuples.FactoryExample() > 0);
+            Assert.IsTrue(Tuples.TupleExample() > 0);
         }
     }
 }
