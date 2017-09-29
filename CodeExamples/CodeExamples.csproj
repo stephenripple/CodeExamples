@@ -45,6 +45,7 @@
     <Compile Include="Factory\IGenericFactory.cs" />
     <Compile Include="Factory\IGenericFactoryElement.cs" />
     <Compile Include="Factories.cs" />
+    <Compile Include="Properties.cs" />
     <Compile Include="Tuples.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
