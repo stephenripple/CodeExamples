@@ -40,6 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConditionalAttributes.cs" />
     <Compile Include="Factory\GenericFactory.cs" />
     <Compile Include="Factory\GenericFactoryElement.cs" />
     <Compile Include="Factory\IGenericFactory.cs" />
