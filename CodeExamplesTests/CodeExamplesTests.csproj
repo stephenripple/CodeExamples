@@ -55,6 +55,7 @@
     <Compile Include="ConditionalAttributesTests.cs" />
     <Compile Include="DisposableTests.cs" />
     <Compile Include="FactoriesTests.cs" />
+    <Compile Include="ImmutableTests.cs" />
     <Compile Include="ObjectEqualityTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="PropertiesTests.cs" />

@@ -47,6 +47,7 @@
     <Compile Include="Factory\IGenericFactory.cs" />
     <Compile Include="Factory\IGenericFactoryElement.cs" />
     <Compile Include="Factories.cs" />
+    <Compile Include="Immutable.cs" />
     <Compile Include="ObjectEquality.cs" />
     <Compile Include="Properties.cs" />
     <Compile Include="Tuples.cs" />
